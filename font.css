@@ -1,0 +1,8 @@
+/* SAP Fiori Icons */
+@font-face {
+  font-family: 'SAP Sports Icons';
+  src:
+    url('https://pages.github.tools.sap/I529815/Sports-Icon-Font/sap-sports.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
